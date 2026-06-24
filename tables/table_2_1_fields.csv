@@ -1,0 +1,27 @@
+字段名,类型,含义
+url,文本,链家成交记录URL
+id,文本,房源唯一标识符
+Lng,数值,经度
+Lat,数值,纬度
+Cid,数值,小区唯一标识符
+tradeTime,日期,成交时间
+DOM,数值,挂牌天数（Days on Market）
+followers,数值,关注人数
+totalPrice,数值,总价（万元）
+price,数值,单价（元/㎡）
+square,数值,面积（㎡）
+livingRoom,数值,卧室数量
+drawingRoom,数值,客厅数量
+kitchen,数值,厨房数量
+bathRoom,数值,卫生间数量
+floor,文本,楼层信息
+buildingType,数值,建筑类型（编码）
+constructionTime,文本,建筑年代
+renovationCondition,数值,装修状况（编码）
+buildingStructure,数值,建筑结构（编码）
+ladderRatio,数值,梯户比
+elevator,数值,有无电梯（0=无, 1=有）
+fiveYearsProperty,数值,是否满五年（0=否, 1=是）
+subway,数值,是否近地铁（0=否, 1=是）
+district,数值,行政区编码
+communityAverage,数值,小区参考均价（元/㎡）
